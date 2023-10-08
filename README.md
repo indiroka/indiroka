@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Indira</h1>
+[![MasterHead](https://i.pinimg.com/564x/2d/75/23/2d75233a52afc89c323fdfadae6806df.jpg)](https://indiroka.io)
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 <div align="center">
- <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding" width="600" height="300">
+ <img src="https://i.pinimg.com/originals/13/bc/dd/13bcdd9473b235fdd3ed62fd120a5686.gif" alt="Coding" width="600" height="300">
 </div>
 ## About Me
 
