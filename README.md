@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/564x/2d/75/23/2d75233a52afc89c323fdfadae6806df.jpg)](https://indiroka.io)
 <h1 align="center">Hi 👋, I'm Kabdollayeva Indira</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 <div align="center">
