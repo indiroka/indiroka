@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indira</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif" alt="Coding" width="300">
+    <img src="[https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif" alt="Coding" width="300](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)">
 </div>
 <br/>
 - 🌱 I’m currently learning **Java**
