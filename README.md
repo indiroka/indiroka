@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Indira</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 <div align="center">
- <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding" width="500">
+ <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding" width="600" height="300">
 </div>
-<br/>
+## About Me
+
 - 🌱 I’m currently learning **Java**
-<br/>
-- 📫 How to reach me **https://t.me/Indirooka , indiroka.300300@gmail.com**
+- 📄 Know about my experiences
+- 📫 Reach me by [email](mailto:indiroka.300300@gmail.com), [Telegram](https://t.me/Indirooka)
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
