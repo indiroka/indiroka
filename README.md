@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kabdollayeva Indira</h1>
-<h3 align="center">A passionate backend developer from Kazakhstan</h3>
+<h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 <div align="center">
  <img src="https://i.pinimg.com/originals/13/bc/dd/13bcdd9473b235fdd3ed62fd120a5686.gif" alt="Coding" width="600" height="300">
 </div>
 ## About Me
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 - 📄 Know about my experiences
-- 📫 Reach me by [email](mailto:indiroka.300300@gmail.com), [Telegram](https://t.me/Indirooka)
+- 📫 Reach me by [email](mailto:indiroka.300300@gmail.com), [Telegram](https://t.me/IndiraKanatkyzy)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/indiroka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indiroka_" height="30" width="40" /></a>
+<a href="https://instagram.com/i.kanatkyzyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indiroka_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
